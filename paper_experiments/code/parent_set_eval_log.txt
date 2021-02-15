@@ -1,0 +1,1201 @@
+[22;0t]0;IPython: paper_experiments/codeTook 2.744016647338867 seconds to load
+========= setting: non_linear, p=500, n=250, strength=0.01 ========
+Vanilla BIC: 0.0
+POET+BIC: 0.01
+CAM: 0.0
+CAM-CHEAT: 0.08
+DECAMFOUND: 0.0
+========= setting: non_linear, p=500, n=250, strength=0.01 ========
+Vanilla BIC: 0.01
+POET+BIC: 0.0
+CAM: 0.0
+CAM-CHEAT: 0.0
+DECAMFOUND: 0.0
+========= setting: non_linear, p=500, n=250, strength=0.01 ========
+Vanilla BIC: 0.02
+POET+BIC: 0.0
+CAM: 0.0
+CAM-CHEAT: 0.0
+DECAMFOUND: 0.01
+========= setting: non_linear, p=500, n=250, strength=0.01 ========
+Vanilla BIC: 0.02
+POET+BIC: 0.01
+CAM: 0.0
+CAM-CHEAT: 0.0
+DECAMFOUND: 0.0
+========= setting: non_linear, p=500, n=250, strength=0.01 ========
+Vanilla BIC: 0.03
+POET+BIC: 0.03
+CAM: 0.01
+CAM-CHEAT: 0.01
+DECAMFOUND: 0.03
+========= setting: non_linear, p=500, n=250, strength=0.01 ========
+Vanilla BIC: 0.09
+POET+BIC: 0.09
+CAM: 0.01
+CAM-CHEAT: 0.01
+DECAMFOUND: 0.01
+========= setting: non_linear, p=500, n=250, strength=0.01 ========
+Vanilla BIC: 0.02
+POET+BIC: 0.06
+CAM: 0.0
+CAM-CHEAT: 0.0
+DECAMFOUND: 0.0
+========= setting: non_linear, p=500, n=250, strength=0.01 ========
+Vanilla BIC: 0.01
+POET+BIC: 0.01
+CAM: 0.02
+CAM-CHEAT: 0.37
+DECAMFOUND: 0.02
+========= setting: non_linear, p=500, n=250, strength=0.01 ========
+Vanilla BIC: 0.04
+POET+BIC: 0.04
+CAM: 0.0
+CAM-CHEAT: 0.0
+DECAMFOUND: 0.01
+========= setting: non_linear, p=500, n=250, strength=0.01 ========
+Vanilla BIC: 0.03
+POET+BIC: 0.03
+CAM: 0.0
+CAM-CHEAT: 0.0
+DECAMFOUND: 0.0
+========= setting: non_linear, p=500, n=250, strength=0.01 ========
+Vanilla BIC: 0.05
+POET+BIC: 0.06
+CAM: 0.02
+CAM-CHEAT: 0.0
+DECAMFOUND: 0.02
+========= setting: non_linear, p=500, n=250, strength=0.01 ========
+Vanilla BIC: 0.02
+POET+BIC: 0.02
+CAM: 0.0
+CAM-CHEAT: 0.0
+DECAMFOUND: 0.0
+========= setting: non_linear, p=500, n=250, strength=0.01 ========
+Vanilla BIC: 0.03
+POET+BIC: 0.03
+CAM: 0.02
+CAM-CHEAT: 0.02
+DECAMFOUND: 0.01
+========= setting: non_linear, p=500, n=250, strength=0.01 ========
+Vanilla BIC: 0.05
+POET+BIC: 0.06
+CAM: 0.0
+CAM-CHEAT: 0.0
+DECAMFOUND: 0.0
+========= setting: non_linear, p=500, n=250, strength=0.01 ========
+Vanilla BIC: 0.03
+POET+BIC: 0.03
+CAM: 0.02
+CAM-CHEAT: 0.09
+DECAMFOUND: 0.01
+========= setting: non_linear, p=500, n=250, strength=0.01 ========
+Vanilla BIC: 0.0
+POET+BIC: 0.03
+CAM: 0.01
+CAM-CHEAT: 0.01
+DECAMFOUND: 0.01
+========= setting: non_linear, p=500, n=250, strength=0.01 ========
+Vanilla BIC: 0.04
+POET+BIC: 0.04
+CAM: 0.0
+CAM-CHEAT: 0.0
+DECAMFOUND: 0.0
+========= setting: non_linear, p=500, n=250, strength=0.01 ========
+Vanilla BIC: 0.01
+POET+BIC: 0.02
+CAM: 0.0
+CAM-CHEAT: 0.0
+DECAMFOUND: 0.0
+========= setting: non_linear, p=500, n=250, strength=0.01 ========
+Vanilla BIC: 0.01
+POET+BIC: 0.03
+CAM: 0.01
+CAM-CHEAT: 0.43
+DECAMFOUND: 0.01
+========= setting: non_linear, p=500, n=250, strength=0.01 ========
+Vanilla BIC: 0.0
+POET+BIC: 0.0
+CAM: 0.0
+CAM-CHEAT: 0.0
+DECAMFOUND: 0.0
+========= setting: non_linear, p=500, n=250, strength=0.01 ========
+Vanilla BIC: 0.02
+POET+BIC: 0.02
+CAM: 0.02
+CAM-CHEAT: 0.01
+DECAMFOUND: 0.02
+========= setting: non_linear, p=500, n=250, strength=0.01 ========
+Vanilla BIC: 0.07
+POET+BIC: 0.06
+CAM: 0.0
+CAM-CHEAT: 0.0
+DECAMFOUND: 0.0
+========= setting: non_linear, p=500, n=250, strength=0.01 ========
+Vanilla BIC: 0.03
+POET+BIC: 0.03
+CAM: 0.0
+CAM-CHEAT: 0.01
+DECAMFOUND: 0.0
+========= setting: non_linear, p=500, n=250, strength=0.01 ========
+Vanilla BIC: 0.02
+POET+BIC: 0.01
+CAM: 0.0
+CAM-CHEAT: 0.0
+DECAMFOUND: 0.01
+========= setting: non_linear, p=500, n=250, strength=0.01 ========
+Vanilla BIC: 0.02
+POET+BIC: 0.05
+CAM: 0.01
+CAM-CHEAT: 0.33
+DECAMFOUND: 0.01
+========= setting: non_linear, p=500, n=250, strength=0.25 ========
+Vanilla BIC: 0.4
+POET+BIC: 0.01
+CAM: 0.49
+CAM-CHEAT: 0.04
+DECAMFOUND: 0.0
+========= setting: non_linear, p=500, n=250, strength=0.25 ========
+Vanilla BIC: 0.32
+POET+BIC: 0.02
+CAM: 0.45
+CAM-CHEAT: 0.1
+DECAMFOUND: 0.0
+========= setting: non_linear, p=500, n=250, strength=0.25 ========
+Vanilla BIC: 0.38
+POET+BIC: 0.01
+CAM: 0.53
+CAM-CHEAT: 0.03
+DECAMFOUND: 0.03
+========= setting: non_linear, p=500, n=250, strength=0.25 ========
+Vanilla BIC: 0.03
+POET+BIC: 0.06
+CAM: 0.25
+CAM-CHEAT: 0.0
+DECAMFOUND: 0.0
+========= setting: non_linear, p=500, n=250, strength=0.25 ========
+Vanilla BIC: 0.33
+POET+BIC: 0.02
+CAM: 0.35
+CAM-CHEAT: 0.19
+DECAMFOUND: 0.05
+========= setting: non_linear, p=500, n=250, strength=0.25 ========
+Vanilla BIC: 0.35
+POET+BIC: 0.05
+CAM: 0.35
+CAM-CHEAT: 0.1
+DECAMFOUND: 0.03
+========= setting: non_linear, p=500, n=250, strength=0.25 ========
+Vanilla BIC: 0.39
+POET+BIC: 0.04
+CAM: 0.31
+CAM-CHEAT: 0.0
+DECAMFOUND: 0.0
+========= setting: non_linear, p=500, n=250, strength=0.25 ========
+Vanilla BIC: 0.37
+POET+BIC: 0.03
+CAM: 0.35
+CAM-CHEAT: 0.12
+DECAMFOUND: 0.0
+========= setting: non_linear, p=500, n=250, strength=0.25 ========
+Vanilla BIC: 0.4
+POET+BIC: 0.03
+CAM: 0.39
+CAM-CHEAT: 0.0
+DECAMFOUND: 0.0
+========= setting: non_linear, p=500, n=250, strength=0.25 ========
+Vanilla BIC: 0.18
+POET+BIC: 0.04
+CAM: 0.17
+CAM-CHEAT: 0.0
+DECAMFOUND: 0.0
+========= setting: non_linear, p=500, n=250, strength=0.25 ========
+Vanilla BIC: 0.43
+POET+BIC: 0.0
+CAM: 0.66
+CAM-CHEAT: 0.03
+DECAMFOUND: 0.02
+========= setting: non_linear, p=500, n=250, strength=0.25 ========
+Vanilla BIC: 0.3
+POET+BIC: 0.05
+CAM: 0.39
+CAM-CHEAT: 0.0
+DECAMFOUND: 0.01
+========= setting: non_linear, p=500, n=250, strength=0.25 ========
+Vanilla BIC: 0.34
+POET+BIC: 0.03
+CAM: 0.28
+CAM-CHEAT: 0.0
+DECAMFOUND: 0.0
+========= setting: non_linear, p=500, n=250, strength=0.25 ========
+Vanilla BIC: 0.43
+POET+BIC: 0.06
+CAM: 0.53
+CAM-CHEAT: 0.0
+DECAMFOUND: 0.0
+========= setting: non_linear, p=500, n=250, strength=0.25 ========
+Vanilla BIC: 0.44
+POET+BIC: 0.07
+CAM: 0.4
+CAM-CHEAT: 0.14
+DECAMFOUND: 0.03
+========= setting: non_linear, p=500, n=250, strength=0.25 ========
+Vanilla BIC: 0.5
+POET+BIC: 0.02
+CAM: 0.58
+CAM-CHEAT: 0.01
+DECAMFOUND: 0.03
+========= setting: non_linear, p=500, n=250, strength=0.25 ========
+Vanilla BIC: 0.32
+POET+BIC: 0.06
+CAM: 0.26
+CAM-CHEAT: 0.18
+DECAMFOUND: 0.0
+========= setting: non_linear, p=500, n=250, strength=0.25 ========
+Vanilla BIC: 0.43
+POET+BIC: 0.05
+CAM: 0.4
+CAM-CHEAT: 0.17
+DECAMFOUND: 0.02
+========= setting: non_linear, p=500, n=250, strength=0.25 ========
+Vanilla BIC: 0.51
+POET+BIC: 0.05
+CAM: 0.37
+CAM-CHEAT: 0.01
+DECAMFOUND: 0.96
+========= setting: non_linear, p=500, n=250, strength=0.25 ========
+Vanilla BIC: 0.17
+POET+BIC: 0.01
+CAM: 0.09
+CAM-CHEAT: 0.0
+DECAMFOUND: 0.0
+========= setting: non_linear, p=500, n=250, strength=0.25 ========
+Vanilla BIC: 0.32
+POET+BIC: 0.03
+CAM: 0.29
+CAM-CHEAT: 0.06
+DECAMFOUND: 0.0
+========= setting: non_linear, p=500, n=250, strength=0.25 ========
+Vanilla BIC: 0.42
+POET+BIC: 0.04
+CAM: 0.31
+CAM-CHEAT: 0.0
+DECAMFOUND: 0.45
+========= setting: non_linear, p=500, n=250, strength=0.25 ========
+Vanilla BIC: 0.46
+POET+BIC: 0.05
+CAM: 0.5
+CAM-CHEAT: 0.0
+DECAMFOUND: 0.0
+========= setting: non_linear, p=500, n=250, strength=0.25 ========
+Vanilla BIC: 0.34
+POET+BIC: 0.01
+CAM: 0.21
+CAM-CHEAT: 0.0
+DECAMFOUND: 0.0
+========= setting: non_linear, p=500, n=250, strength=0.25 ========
+Vanilla BIC: 0.35
+POET+BIC: 0.02
+CAM: 0.29
+CAM-CHEAT: 0.04
+DECAMFOUND: 0.0
+========= setting: non_linear, p=500, n=250, strength=0.5 ========
+Vanilla BIC: 0.47
+POET+BIC: 0.02
+CAM: 0.49
+CAM-CHEAT: 0.07
+DECAMFOUND: 0.0
+========= setting: non_linear, p=500, n=250, strength=0.5 ========
+Vanilla BIC: 0.4
+POET+BIC: 0.03
+CAM: 0.47
+CAM-CHEAT: 0.94
+DECAMFOUND: 0.0
+========= setting: non_linear, p=500, n=250, strength=0.5 ========
+Vanilla BIC: 0.57
+POET+BIC: 0.06
+CAM: 0.53
+CAM-CHEAT: 0.0
+DECAMFOUND: 0.0
+========= setting: non_linear, p=500, n=250, strength=0.5 ========
+Vanilla BIC: 0.3
+POET+BIC: 0.05
+CAM: 0.38
+CAM-CHEAT: 0.06
+DECAMFOUND: 0.06
+========= setting: non_linear, p=500, n=250, strength=0.5 ========
+Vanilla BIC: 0.38
+POET+BIC: 0.05
+CAM: 0.5
+CAM-CHEAT: 0.0
+DECAMFOUND: 0.0
+========= setting: non_linear, p=500, n=250, strength=0.5 ========
+Vanilla BIC: 0.52
+POET+BIC: 0.03
+CAM: 0.45
+CAM-CHEAT: 0.02
+DECAMFOUND: 0.02
+========= setting: non_linear, p=500, n=250, strength=0.5 ========
+Vanilla BIC: 0.48
+POET+BIC: 0.0
+CAM: 0.81
+CAM-CHEAT: 0.01
+DECAMFOUND: 0.01
+========= setting: non_linear, p=500, n=250, strength=0.5 ========
+Vanilla BIC: 0.41
+POET+BIC: 0.02
+CAM: 0.65
+CAM-CHEAT: 0.0
+DECAMFOUND: 0.0
+========= setting: non_linear, p=500, n=250, strength=0.5 ========
+Vanilla BIC: 0.48
+POET+BIC: 0.02
+CAM: 0.54
+CAM-CHEAT: 0.01
+DECAMFOUND: 0.02
+========= setting: non_linear, p=500, n=250, strength=0.5 ========
+Vanilla BIC: 0.36
+POET+BIC: 0.05
+CAM: 0.43
+CAM-CHEAT: 0.01
+DECAMFOUND: 0.02
+========= setting: non_linear, p=500, n=250, strength=0.5 ========
+Vanilla BIC: 0.54
+POET+BIC: 0.03
+CAM: 0.59
+CAM-CHEAT: 0.04
+DECAMFOUND: 0.04
+========= setting: non_linear, p=500, n=250, strength=0.5 ========
+Vanilla BIC: 0.28
+POET+BIC: 0.04
+CAM: 0.35
+CAM-CHEAT: 0.0
+DECAMFOUND: 0.0
+========= setting: non_linear, p=500, n=250, strength=0.5 ========
+Vanilla BIC: 0.6
+POET+BIC: 0.04
+CAM: 0.63
+CAM-CHEAT: 0.0
+DECAMFOUND: 0.0
+========= setting: non_linear, p=500, n=250, strength=0.5 ========
+Vanilla BIC: 0.45
+POET+BIC: 0.07
+CAM: 0.44
+CAM-CHEAT: 0.04
+DECAMFOUND: 0.03
+========= setting: non_linear, p=500, n=250, strength=0.5 ========
+Vanilla BIC: 0.55
+POET+BIC: 0.04
+CAM: 0.59
+CAM-CHEAT: 0.0
+DECAMFOUND: 0.0
+========= setting: non_linear, p=500, n=250, strength=0.5 ========
+Vanilla BIC: 0.37
+POET+BIC: 0.05
+CAM: 0.41
+CAM-CHEAT: 0.03
+DECAMFOUND: 0.04
+========= setting: non_linear, p=500, n=250, strength=0.5 ========
+Vanilla BIC: 0.42
+POET+BIC: 0.0
+CAM: 0.46
+CAM-CHEAT: 0.07
+DECAMFOUND: 0.01
+========= setting: non_linear, p=500, n=250, strength=0.5 ========
+Vanilla BIC: 0.41
+POET+BIC: 0.05
+CAM: 0.44
+CAM-CHEAT: 0.16
+DECAMFOUND: 0.03
+========= setting: non_linear, p=500, n=250, strength=0.5 ========
+Vanilla BIC: 0.42
+POET+BIC: 0.03
+CAM: 0.51
+CAM-CHEAT: 0.12
+DECAMFOUND: 0.04
+========= setting: non_linear, p=500, n=250, strength=0.5 ========
+Vanilla BIC: 0.45
+POET+BIC: 0.01
+CAM: 0.58
+CAM-CHEAT: 0.5
+DECAMFOUND: 0.0
+========= setting: non_linear, p=500, n=250, strength=0.5 ========
+Vanilla BIC: 0.46
+POET+BIC: 0.02
+CAM: 0.36
+CAM-CHEAT: 0.01
+DECAMFOUND: 0.0
+========= setting: non_linear, p=500, n=250, strength=0.5 ========
+Vanilla BIC: 0.65
+POET+BIC: 0.04
+CAM: 0.8
+CAM-CHEAT: 0.05
+DECAMFOUND: 0.01
+========= setting: non_linear, p=500, n=250, strength=0.5 ========
+Vanilla BIC: 0.55
+POET+BIC: 0.06
+CAM: 0.71
+CAM-CHEAT: 0.0
+DECAMFOUND: 0.0
+========= setting: non_linear, p=500, n=250, strength=0.5 ========
+Vanilla BIC: 0.53
+POET+BIC: 0.04
+CAM: 0.56
+CAM-CHEAT: 0.02
+DECAMFOUND: 0.0
+========= setting: non_linear, p=500, n=250, strength=0.5 ========
+Vanilla BIC: 0.64
+POET+BIC: 0.04
+CAM: 0.67
+CAM-CHEAT: 0.0
+DECAMFOUND: 0.0
+========= setting: non_linear, p=500, n=250, strength=0.75 ========
+Vanilla BIC: 0.47
+POET+BIC: 0.04
+CAM: 0.44
+CAM-CHEAT: 0.16
+DECAMFOUND: 0.11
+========= setting: non_linear, p=500, n=250, strength=0.75 ========
+Vanilla BIC: 0.31
+POET+BIC: 0.03
+CAM: 0.32
+CAM-CHEAT: 0.09
+DECAMFOUND: 0.07
+========= setting: non_linear, p=500, n=250, strength=0.75 ========
+Vanilla BIC: 0.42
+POET+BIC: 0.02
+CAM: 0.68
+CAM-CHEAT: 0.14
+DECAMFOUND: 0.02
+========= setting: non_linear, p=500, n=250, strength=0.75 ========
+Vanilla BIC: 0.38
+POET+BIC: 0.04
+CAM: 0.48
+CAM-CHEAT: 0.08
+DECAMFOUND: 0.04
+========= setting: non_linear, p=500, n=250, strength=0.75 ========
+Vanilla BIC: 0.39
+POET+BIC: 0.03
+CAM: 0.41
+CAM-CHEAT: 0.07
+DECAMFOUND: 0.04
+========= setting: non_linear, p=500, n=250, strength=0.75 ========
+Vanilla BIC: 0.29
+POET+BIC: 0.05
+CAM: 0.35
+CAM-CHEAT: 0.13
+DECAMFOUND: 0.01
+========= setting: non_linear, p=500, n=250, strength=0.75 ========
+Vanilla BIC: 0.36
+POET+BIC: 0.01
+CAM: 0.28
+CAM-CHEAT: 0.11
+DECAMFOUND: 0.06
+========= setting: non_linear, p=500, n=250, strength=0.75 ========
+Vanilla BIC: 0.44
+POET+BIC: 0.01
+CAM: 0.54
+CAM-CHEAT: 0.02
+DECAMFOUND: 0.01
+========= setting: non_linear, p=500, n=250, strength=0.75 ========
+Vanilla BIC: 0.36
+POET+BIC: 0.04
+CAM: 0.43
+CAM-CHEAT: 0.02
+DECAMFOUND: 0.01
+========= setting: non_linear, p=500, n=250, strength=0.75 ========
+Vanilla BIC: 0.48
+POET+BIC: 0.03
+CAM: 0.48
+CAM-CHEAT: 0.07
+DECAMFOUND: 0.1
+========= setting: non_linear, p=500, n=250, strength=0.75 ========
+Vanilla BIC: 0.57
+POET+BIC: 0.03
+CAM: 0.74
+CAM-CHEAT: 0.22
+DECAMFOUND: 0.07
+========= setting: non_linear, p=500, n=250, strength=0.75 ========
+Vanilla BIC: 0.31
+POET+BIC: 0.03
+CAM: 0.38
+CAM-CHEAT: 0.08
+DECAMFOUND: 0.04
+========= setting: non_linear, p=500, n=250, strength=0.75 ========
+Vanilla BIC: 0.42
+POET+BIC: 0.03
+CAM: 0.67
+CAM-CHEAT: 0.1
+DECAMFOUND: 0.04
+========= setting: non_linear, p=500, n=250, strength=0.75 ========
+Vanilla BIC: 0.59
+POET+BIC: 0.04
+CAM: 0.69
+CAM-CHEAT: 0.06
+DECAMFOUND: 0.04
+========= setting: non_linear, p=500, n=250, strength=0.75 ========
+Vanilla BIC: 0.59
+POET+BIC: 0.0
+CAM: 0.67
+CAM-CHEAT: 0.12
+DECAMFOUND: 0.07
+========= setting: non_linear, p=500, n=250, strength=0.75 ========
+Vanilla BIC: 0.32
+POET+BIC: 0.02
+CAM: 0.35
+CAM-CHEAT: 0.19
+DECAMFOUND: 0.1
+========= setting: non_linear, p=500, n=250, strength=0.75 ========
+Vanilla BIC: 0.46
+POET+BIC: 0.02
+CAM: 0.69
+CAM-CHEAT: 0.09
+DECAMFOUND: 0.05
+========= setting: non_linear, p=500, n=250, strength=0.75 ========
+Vanilla BIC: 0.4
+POET+BIC: 0.04
+CAM: 0.6
+CAM-CHEAT: 0.0
+DECAMFOUND: 0.0
+========= setting: non_linear, p=500, n=250, strength=0.75 ========
+Vanilla BIC: 0.44
+POET+BIC: 0.02
+CAM: 0.36
+CAM-CHEAT: 0.0
+DECAMFOUND: 0.0
+========= setting: non_linear, p=500, n=250, strength=0.75 ========
+Vanilla BIC: 0.3
+POET+BIC: 0.03
+CAM: 0.45
+CAM-CHEAT: 0.07
+DECAMFOUND: 0.04
+========= setting: non_linear, p=500, n=250, strength=0.75 ========
+Vanilla BIC: 0.45
+POET+BIC: 0.02
+CAM: 0.74
+CAM-CHEAT: 1.0
+DECAMFOUND: 0.0
+========= setting: non_linear, p=500, n=250, strength=0.75 ========
+Vanilla BIC: 0.44
+POET+BIC: 0.02
+CAM: 0.72
+CAM-CHEAT: 0.23
+DECAMFOUND: 0.0
+========= setting: non_linear, p=500, n=250, strength=0.75 ========
+Vanilla BIC: 0.43
+POET+BIC: 0.01
+CAM: 0.54
+CAM-CHEAT: 0.8
+DECAMFOUND: 0.01
+========= setting: non_linear, p=500, n=250, strength=0.75 ========
+Vanilla BIC: 0.39
+POET+BIC: 0.04
+CAM: 0.32
+CAM-CHEAT: 0.0
+DECAMFOUND: 0.0
+========= setting: non_linear, p=500, n=250, strength=0.75 ========
+Vanilla BIC: 0.25
+POET+BIC: 0.05
+CAM: 0.5
+CAM-CHEAT: 0.11
+DECAMFOUND: 0.05
+========= setting: linear, p=500, n=250, strength=0.01 ========
+Vanilla BIC: 0.03
+POET+BIC: 0.04
+CAM: 0.0
+CAM-CHEAT: 0.0
+DECAMFOUND: 0.01
+========= setting: linear, p=500, n=250, strength=0.01 ========
+Vanilla BIC: 0.03
+POET+BIC: 0.04
+CAM: 0.0
+CAM-CHEAT: 0.0
+DECAMFOUND: 0.0
+========= setting: linear, p=500, n=250, strength=0.01 ========
+Vanilla BIC: 0.05
+POET+BIC: 0.05
+CAM: 0.05
+CAM-CHEAT: 0.05
+DECAMFOUND: 0.06
+========= setting: linear, p=500, n=250, strength=0.01 ========
+Vanilla BIC: 0.04
+POET+BIC: 0.08
+CAM: 0.03
+CAM-CHEAT: 0.05
+DECAMFOUND: 0.08
+========= setting: linear, p=500, n=250, strength=0.01 ========
+Vanilla BIC: 0.02
+POET+BIC: 0.02
+CAM: 0.02
+CAM-CHEAT: 0.01
+DECAMFOUND: 0.02
+========= setting: linear, p=500, n=250, strength=0.01 ========
+Vanilla BIC: 0.03
+POET+BIC: 0.03
+CAM: 0.01
+CAM-CHEAT: 0.01
+DECAMFOUND: 0.01
+========= setting: linear, p=500, n=250, strength=0.01 ========
+Vanilla BIC: 0.02
+POET+BIC: 0.02
+CAM: 0.03
+CAM-CHEAT: 0.03
+DECAMFOUND: 0.04
+========= setting: linear, p=500, n=250, strength=0.01 ========
+Vanilla BIC: 0.03
+POET+BIC: 0.02
+CAM: 0.01
+CAM-CHEAT: 0.02
+DECAMFOUND: 0.01
+========= setting: linear, p=500, n=250, strength=0.01 ========
+Vanilla BIC: 0.04
+POET+BIC: 0.02
+CAM: 0.06
+CAM-CHEAT: 0.05
+DECAMFOUND: 0.02
+========= setting: linear, p=500, n=250, strength=0.01 ========
+Vanilla BIC: 0.05
+POET+BIC: 0.05
+CAM: 0.0
+CAM-CHEAT: 0.0
+DECAMFOUND: 0.0
+========= setting: linear, p=500, n=250, strength=0.01 ========
+Vanilla BIC: 0.07
+POET+BIC: 0.07
+CAM: 0.07
+CAM-CHEAT: 0.06
+DECAMFOUND: 0.09
+========= setting: linear, p=500, n=250, strength=0.01 ========
+Vanilla BIC: 0.06
+POET+BIC: 0.04
+CAM: 0.01
+CAM-CHEAT: 0.08
+DECAMFOUND: 0.01
+========= setting: linear, p=500, n=250, strength=0.01 ========
+Vanilla BIC: 0.12
+POET+BIC: 0.09
+CAM: 0.11
+CAM-CHEAT: 0.55
+DECAMFOUND: 0.06
+========= setting: linear, p=500, n=250, strength=0.01 ========
+Vanilla BIC: 0.08
+POET+BIC: 0.08
+CAM: 0.06
+CAM-CHEAT: 0.04
+DECAMFOUND: 0.07
+========= setting: linear, p=500, n=250, strength=0.01 ========
+Vanilla BIC: 0.02
+POET+BIC: 0.02
+CAM: 0.02
+CAM-CHEAT: 0.02
+DECAMFOUND: 0.02
+========= setting: linear, p=500, n=250, strength=0.01 ========
+Vanilla BIC: 0.01
+POET+BIC: 0.01
+CAM: 0.01
+CAM-CHEAT: 0.01
+DECAMFOUND: 0.02
+========= setting: linear, p=500, n=250, strength=0.01 ========
+Vanilla BIC: 0.06
+POET+BIC: 0.08
+CAM: 0.04
+CAM-CHEAT: 0.68
+DECAMFOUND: 0.05
+========= setting: linear, p=500, n=250, strength=0.01 ========
+Vanilla BIC: 0.04
+POET+BIC: 0.04
+CAM: 0.06
+CAM-CHEAT: 0.06
+DECAMFOUND: 0.06
+========= setting: linear, p=500, n=250, strength=0.01 ========
+Vanilla BIC: 0.03
+POET+BIC: 0.03
+CAM: 0.03
+CAM-CHEAT: 0.01
+DECAMFOUND: 0.03
+========= setting: linear, p=500, n=250, strength=0.01 ========
+Vanilla BIC: 0.05
+POET+BIC: 0.01
+CAM: 0.05
+CAM-CHEAT: 0.05
+DECAMFOUND: 0.04
+========= setting: linear, p=500, n=250, strength=0.01 ========
+Vanilla BIC: 0.01
+POET+BIC: 0.0
+CAM: 0.03
+CAM-CHEAT: 0.01
+DECAMFOUND: 0.02
+========= setting: linear, p=500, n=250, strength=0.01 ========
+Vanilla BIC: 0.03
+POET+BIC: 0.03
+CAM: 0.03
+CAM-CHEAT: 0.05
+DECAMFOUND: 0.06
+========= setting: linear, p=500, n=250, strength=0.01 ========
+Vanilla BIC: 0.04
+POET+BIC: 0.04
+CAM: 0.03
+CAM-CHEAT: 0.21
+DECAMFOUND: 0.03
+========= setting: linear, p=500, n=250, strength=0.01 ========
+Vanilla BIC: 0.08
+POET+BIC: 0.08
+CAM: 0.07
+CAM-CHEAT: 0.2
+DECAMFOUND: 0.08
+========= setting: linear, p=500, n=250, strength=0.01 ========
+Vanilla BIC: 0.02
+POET+BIC: 0.02
+CAM: 0.04
+CAM-CHEAT: 0.01
+DECAMFOUND: 0.04
+========= setting: linear, p=500, n=250, strength=0.25 ========
+Vanilla BIC: 0.88
+POET+BIC: 0.0
+CAM: 0.88
+CAM-CHEAT: 0.03
+DECAMFOUND: 0.02
+========= setting: linear, p=500, n=250, strength=0.25 ========
+Vanilla BIC: 0.33
+POET+BIC: 0.03
+CAM: 0.46
+CAM-CHEAT: 0.07
+DECAMFOUND: 0.05
+========= setting: linear, p=500, n=250, strength=0.25 ========
+Vanilla BIC: 0.84
+POET+BIC: 0.07
+CAM: 0.83
+CAM-CHEAT: 0.06
+DECAMFOUND: 0.05
+========= setting: linear, p=500, n=250, strength=0.25 ========
+Vanilla BIC: 0.81
+POET+BIC: 0.02
+CAM: 0.81
+CAM-CHEAT: 0.06
+DECAMFOUND: 0.06
+========= setting: linear, p=500, n=250, strength=0.25 ========
+Vanilla BIC: 0.83
+POET+BIC: 0.03
+CAM: 0.83
+CAM-CHEAT: 0.04
+DECAMFOUND: 0.01
+========= setting: linear, p=500, n=250, strength=0.25 ========
+Vanilla BIC: 0.72
+POET+BIC: 0.11
+CAM: 0.63
+CAM-CHEAT: 0.14
+DECAMFOUND: 0.07
+========= setting: linear, p=500, n=250, strength=0.25 ========
+Vanilla BIC: 0.78
+POET+BIC: 0.02
+CAM: 0.78
+CAM-CHEAT: 0.02
+DECAMFOUND: 0.02
+========= setting: linear, p=500, n=250, strength=0.25 ========
+Vanilla BIC: 0.86
+POET+BIC: 0.03
+CAM: 0.87
+CAM-CHEAT: 0.05
+DECAMFOUND: 0.07
+========= setting: linear, p=500, n=250, strength=0.25 ========
+Vanilla BIC: 0.64
+POET+BIC: 0.04
+CAM: 0.66
+CAM-CHEAT: 0.05
+DECAMFOUND: 0.08
+========= setting: linear, p=500, n=250, strength=0.25 ========
+Vanilla BIC: 0.77
+POET+BIC: 0.02
+CAM: 0.69
+CAM-CHEAT: 0.11
+DECAMFOUND: 0.0
+========= setting: linear, p=500, n=250, strength=0.25 ========
+Vanilla BIC: 0.64
+POET+BIC: 0.04
+CAM: 0.7
+CAM-CHEAT: 0.07
+DECAMFOUND: 0.03
+========= setting: linear, p=500, n=250, strength=0.25 ========
+Vanilla BIC: 0.64
+POET+BIC: 0.02
+CAM: 0.74
+CAM-CHEAT: 0.06
+DECAMFOUND: 0.04
+========= setting: linear, p=500, n=250, strength=0.25 ========
+Vanilla BIC: 0.71
+POET+BIC: 0.03
+CAM: 0.68
+CAM-CHEAT: 0.1
+DECAMFOUND: 0.02
+========= setting: linear, p=500, n=250, strength=0.25 ========
+Vanilla BIC: 0.81
+POET+BIC: 0.01
+CAM: 0.82
+CAM-CHEAT: 0.02
+DECAMFOUND: 0.03
+========= setting: linear, p=500, n=250, strength=0.25 ========
+Vanilla BIC: 0.75
+POET+BIC: 0.01
+CAM: 0.7
+CAM-CHEAT: 0.11
+DECAMFOUND: 0.0
+========= setting: linear, p=500, n=250, strength=0.25 ========
+Vanilla BIC: 0.87
+POET+BIC: 0.03
+CAM: 0.86
+CAM-CHEAT: 0.05
+DECAMFOUND: 0.04
+========= setting: linear, p=500, n=250, strength=0.25 ========
+Vanilla BIC: 0.83
+POET+BIC: 0.04
+CAM: 0.86
+CAM-CHEAT: 0.1
+DECAMFOUND: 0.11
+========= setting: linear, p=500, n=250, strength=0.25 ========
+Vanilla BIC: 0.77
+POET+BIC: 0.01
+CAM: 0.82
+CAM-CHEAT: 0.03
+DECAMFOUND: 0.05
+========= setting: linear, p=500, n=250, strength=0.25 ========
+Vanilla BIC: 0.86
+POET+BIC: 0.03
+CAM: 0.85
+CAM-CHEAT: 0.02
+DECAMFOUND: 0.04
+========= setting: linear, p=500, n=250, strength=0.25 ========
+Vanilla BIC: 0.53
+POET+BIC: 0.0
+CAM: 0.61
+CAM-CHEAT: 0.02
+DECAMFOUND: 0.01
+========= setting: linear, p=500, n=250, strength=0.25 ========
+Vanilla BIC: 0.83
+POET+BIC: 0.02
+CAM: 0.86
+CAM-CHEAT: 0.04
+DECAMFOUND: 0.04
+========= setting: linear, p=500, n=250, strength=0.25 ========
+Vanilla BIC: 0.85
+POET+BIC: 0.03
+CAM: 0.86
+CAM-CHEAT: 0.02
+DECAMFOUND: 0.03
+========= setting: linear, p=500, n=250, strength=0.25 ========
+Vanilla BIC: 0.72
+POET+BIC: 0.12
+CAM: 0.68
+CAM-CHEAT: 0.2
+DECAMFOUND: 0.06
+========= setting: linear, p=500, n=250, strength=0.25 ========
+Vanilla BIC: 0.89
+POET+BIC: 0.02
+CAM: 0.9
+CAM-CHEAT: 0.01
+DECAMFOUND: 0.01
+========= setting: linear, p=500, n=250, strength=0.25 ========
+Vanilla BIC: 0.68
+POET+BIC: 0.04
+CAM: 0.72
+CAM-CHEAT: 0.11
+DECAMFOUND: 0.07
+========= setting: linear, p=500, n=250, strength=0.5 ========
+Vanilla BIC: 0.94
+POET+BIC: 0.08
+CAM: 0.94
+CAM-CHEAT: 0.13
+DECAMFOUND: 0.13
+========= setting: linear, p=500, n=250, strength=0.5 ========
+Vanilla BIC: 0.97
+POET+BIC: 0.06
+CAM: 0.96
+CAM-CHEAT: 0.09
+DECAMFOUND: 0.08
+========= setting: linear, p=500, n=250, strength=0.5 ========
+Vanilla BIC: 1.0
+POET+BIC: 0.01
+CAM: 1.0
+CAM-CHEAT: 0.1
+DECAMFOUND: 0.08
+========= setting: linear, p=500, n=250, strength=0.5 ========
+Vanilla BIC: 1.0
+POET+BIC: 0.03
+CAM: 1.0
+CAM-CHEAT: 0.63
+DECAMFOUND: 0.01
+========= setting: linear, p=500, n=250, strength=0.5 ========
+Vanilla BIC: 0.73
+POET+BIC: 0.01
+CAM: 0.81
+CAM-CHEAT: 0.06
+DECAMFOUND: 0.09
+========= setting: linear, p=500, n=250, strength=0.5 ========
+Vanilla BIC: 1.0
+POET+BIC: 0.02
+CAM: 1.0
+CAM-CHEAT: 0.05
+DECAMFOUND: 0.06
+========= setting: linear, p=500, n=250, strength=0.5 ========
+Vanilla BIC: 0.34
+POET+BIC: 0.01
+CAM: 0.49
+CAM-CHEAT: 0.04
+DECAMFOUND: 0.09
+========= setting: linear, p=500, n=250, strength=0.5 ========
+Vanilla BIC: 1.0
+POET+BIC: 0.05
+CAM: 1.0
+CAM-CHEAT: 0.04
+DECAMFOUND: 0.03
+========= setting: linear, p=500, n=250, strength=0.5 ========
+Vanilla BIC: 0.98
+POET+BIC: 0.05
+CAM: 1.0
+CAM-CHEAT: 0.2
+DECAMFOUND: 0.16
+========= setting: linear, p=500, n=250, strength=0.5 ========
+Vanilla BIC: 1.0
+POET+BIC: 0.02
+CAM: 1.0
+CAM-CHEAT: 0.42
+DECAMFOUND: 0.02
+========= setting: linear, p=500, n=250, strength=0.5 ========
+Vanilla BIC: 0.9
+POET+BIC: 0.03
+CAM: 0.98
+CAM-CHEAT: 0.05
+DECAMFOUND: 0.04
+========= setting: linear, p=500, n=250, strength=0.5 ========
+Vanilla BIC: 1.0
+POET+BIC: 0.03
+CAM: 1.0
+CAM-CHEAT: 0.17
+DECAMFOUND: 0.01
+========= setting: linear, p=500, n=250, strength=0.5 ========
+Vanilla BIC: 0.99
+POET+BIC: 0.03
+CAM: 1.0
+CAM-CHEAT: 0.01
+DECAMFOUND: 0.02
+========= setting: linear, p=500, n=250, strength=0.5 ========
+Vanilla BIC: 0.96
+POET+BIC: 0.02
+CAM: 0.97
+CAM-CHEAT: 0.07
+DECAMFOUND: 0.02
+========= setting: linear, p=500, n=250, strength=0.5 ========
+Vanilla BIC: 0.75
+POET+BIC: 0.03
+CAM: 0.79
+CAM-CHEAT: 0.09
+DECAMFOUND: 0.08
+========= setting: linear, p=500, n=250, strength=0.5 ========
+Vanilla BIC: 1.0
+POET+BIC: 0.04
+CAM: 1.0
+CAM-CHEAT: 0.95
+DECAMFOUND: 0.0
+========= setting: linear, p=500, n=250, strength=0.5 ========
+Vanilla BIC: 1.0
+POET+BIC: 0.03
+CAM: 1.0
+CAM-CHEAT: 0.06
+DECAMFOUND: 0.03
+========= setting: linear, p=500, n=250, strength=0.5 ========
+Vanilla BIC: 1.0
+POET+BIC: 0.01
+CAM: 1.0
+CAM-CHEAT: 0.95
+DECAMFOUND: 0.01
+========= setting: linear, p=500, n=250, strength=0.5 ========
+Vanilla BIC: 0.99
+POET+BIC: 0.03
+CAM: 0.99
+CAM-CHEAT: 0.08
+DECAMFOUND: 0.08
+========= setting: linear, p=500, n=250, strength=0.5 ========
+Vanilla BIC: 1.0
+POET+BIC: 0.04
+CAM: 1.0
+CAM-CHEAT: 0.07
+DECAMFOUND: 0.0
+========= setting: linear, p=500, n=250, strength=0.5 ========
+Vanilla BIC: 0.99
+POET+BIC: 0.07
+CAM: 0.99
+CAM-CHEAT: 0.13
+DECAMFOUND: 0.08
+========= setting: linear, p=500, n=250, strength=0.5 ========
+Vanilla BIC: 1.0
+POET+BIC: 0.01
+CAM: 1.0
+CAM-CHEAT: 0.56
+DECAMFOUND: 0.0
+========= setting: linear, p=500, n=250, strength=0.5 ========
+Vanilla BIC: 1.0
+POET+BIC: 0.02
+CAM: 1.0
+CAM-CHEAT: 0.64
+DECAMFOUND: 0.0
+========= setting: linear, p=500, n=250, strength=0.5 ========
+Vanilla BIC: 1.0
+POET+BIC: 0.0
+CAM: 1.0
+CAM-CHEAT: 0.16
+DECAMFOUND: 0.0
+========= setting: linear, p=500, n=250, strength=0.5 ========
+Vanilla BIC: 0.62
+POET+BIC: 0.02
+CAM: 0.71
+CAM-CHEAT: 0.05
+DECAMFOUND: 0.04
+========= setting: linear, p=500, n=250, strength=0.75 ========
+Vanilla BIC: 1.0
+POET+BIC: 0.0
+CAM: 1.0
+CAM-CHEAT: 0.1
+DECAMFOUND: 0.07
+========= setting: linear, p=500, n=250, strength=0.75 ========
+Vanilla BIC: 1.0
+POET+BIC: 0.01
+CAM: 1.0
+CAM-CHEAT: 0.11
+DECAMFOUND: 0.07
+========= setting: linear, p=500, n=250, strength=0.75 ========
+Vanilla BIC: 0.99
+POET+BIC: 0.02
+CAM: 1.0
+CAM-CHEAT: 0.09
+DECAMFOUND: 0.07
+========= setting: linear, p=500, n=250, strength=0.75 ========
+Vanilla BIC: 0.81
+POET+BIC: 0.01
+CAM: 0.98
+CAM-CHEAT: 0.08
+DECAMFOUND: 0.08
+========= setting: linear, p=500, n=250, strength=0.75 ========
+Vanilla BIC: 1.0
+POET+BIC: 0.0
+CAM: 1.0
+CAM-CHEAT: 0.13
+DECAMFOUND: 0.1
+========= setting: linear, p=500, n=250, strength=0.75 ========
+Vanilla BIC: 1.0
+POET+BIC: 0.0
+CAM: 1.0
+CAM-CHEAT: 0.11
+DECAMFOUND: 0.09
+========= setting: linear, p=500, n=250, strength=0.75 ========
+Vanilla BIC: 1.0
+POET+BIC: 0.03
+CAM: 1.0
+CAM-CHEAT: 0.1
+DECAMFOUND: 0.07
+========= setting: linear, p=500, n=250, strength=0.75 ========
+Vanilla BIC: 1.0
+POET+BIC: 0.0
+CAM: 1.0
+CAM-CHEAT: 0.08
+DECAMFOUND: 0.07
+========= setting: linear, p=500, n=250, strength=0.75 ========
+Vanilla BIC: 0.69
+POET+BIC: 0.02
+CAM: 0.96
+CAM-CHEAT: 0.07
+DECAMFOUND: 0.1
+========= setting: linear, p=500, n=250, strength=0.75 ========
+Vanilla BIC: 1.0
+POET+BIC: 0.03
+CAM: 1.0
+CAM-CHEAT: 0.11
+DECAMFOUND: 0.1
+========= setting: linear, p=500, n=250, strength=0.75 ========
+Vanilla BIC: 1.0
+POET+BIC: 0.01
+CAM: 1.0
+CAM-CHEAT: 0.04
+DECAMFOUND: 0.0
+========= setting: linear, p=500, n=250, strength=0.75 ========
+Vanilla BIC: 1.0
+POET+BIC: 0.01
+CAM: 1.0
+CAM-CHEAT: 1.0
+DECAMFOUND: 0.0
+========= setting: linear, p=500, n=250, strength=0.75 ========
+Vanilla BIC: 1.0
+POET+BIC: 0.05
+CAM: 1.0
+CAM-CHEAT: 0.12
+DECAMFOUND: 0.12
+========= setting: linear, p=500, n=250, strength=0.75 ========
+Vanilla BIC: 1.0
+POET+BIC: 0.01
+CAM: 1.0
+CAM-CHEAT: 0.02
+DECAMFOUND: 0.04
+========= setting: linear, p=500, n=250, strength=0.75 ========
+Vanilla BIC: 1.0
+POET+BIC: 0.01
+CAM: 1.0
+CAM-CHEAT: 0.08
+DECAMFOUND: 0.08
+========= setting: linear, p=500, n=250, strength=0.75 ========
+Vanilla BIC: 1.0
+POET+BIC: 0.02
+CAM: 1.0
+CAM-CHEAT: 0.17
+DECAMFOUND: 0.06
+========= setting: linear, p=500, n=250, strength=0.75 ========
+Vanilla BIC: 1.0
+POET+BIC: 0.01
+CAM: 1.0
+CAM-CHEAT: 0.98
+DECAMFOUND: 0.0
+========= setting: linear, p=500, n=250, strength=0.75 ========
+Vanilla BIC: 0.75
+POET+BIC: 0.0
+CAM: 0.95
+CAM-CHEAT: 0.05
+DECAMFOUND: 0.13
+========= setting: linear, p=500, n=250, strength=0.75 ========
+Vanilla BIC: 1.0
+POET+BIC: 0.05
+CAM: 1.0
+CAM-CHEAT: 1.0
+DECAMFOUND: 0.01
+========= setting: linear, p=500, n=250, strength=0.75 ========
+Vanilla BIC: 1.0
+POET+BIC: 0.02
+CAM: 1.0
+CAM-CHEAT: 0.16
+DECAMFOUND: 0.19
+========= setting: linear, p=500, n=250, strength=0.75 ========
+Vanilla BIC: 1.0
+POET+BIC: 0.02
+CAM: 1.0
+CAM-CHEAT: 0.98
+DECAMFOUND: 0.0
+========= setting: linear, p=500, n=250, strength=0.75 ========
+Vanilla BIC: 1.0
+POET+BIC: 0.0
+CAM: 1.0
+CAM-CHEAT: 0.09
+DECAMFOUND: 0.1
+========= setting: linear, p=500, n=250, strength=0.75 ========
+Vanilla BIC: 0.14
+POET+BIC: 0.03
+CAM: 0.34
+CAM-CHEAT: 0.1
+DECAMFOUND: 0.12
+========= setting: linear, p=500, n=250, strength=0.75 ========
+Vanilla BIC: 1.0
+POET+BIC: 0.01
+CAM: 1.0
+CAM-CHEAT: 0.11
+DECAMFOUND: 0.04
+========= setting: linear, p=500, n=250, strength=0.75 ========
+Vanilla BIC: 1.0
+POET+BIC: 0.02
+CAM: 1.0
+CAM-CHEAT: 0.1
+DECAMFOUND: 0.04
